@@ -8,7 +8,7 @@ const UserList = () => {
     const [loading, setLoading] = useState(true);
 
     
-    const API_BASE_URL = 'http://localhost:8000/api';
+    const API_BASE_URL = 'https://web-thitracnghiem-nhom15.onrender.com/api';
 
     useEffect(() => {
       
